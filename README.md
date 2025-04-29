@@ -1,4 +1,4 @@
-# mapbox-gl-style-diff
+# map-gl-style-diff
 
 Tool providing a semantic readout of diffs between "before" and "after" stylesheet states. Assumes stable layer id names.
 
@@ -15,7 +15,7 @@ To be implemented
 
 ## Usage
 
-`bin/mapbox-gl-style-diff ./path/to/style/a.json ./path/to/style/b.json`
+`bin/map-gl-style-diff ./path/to/style/a.json ./path/to/style/b.json`
 
 ## Standalone tool
 
