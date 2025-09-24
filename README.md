@@ -20,3 +20,7 @@ To be implemented
 ## Standalone tool
 
 Currently you can also use this as a standalone tool via `stamen-diff.html`
+
+## Web tool
+
+To use a hosted version of this tool on the web, go to [stamen.github.io/map-gl-style-diff-viewer](https://stamen.github.io/map-gl-style-diff-viewer/)
